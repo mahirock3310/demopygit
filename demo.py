@@ -1,1 +1,3 @@
-priny('Hello")
+print('Hello')
+
+print('welcome to Myworld')
